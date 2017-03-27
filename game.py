@@ -67,4 +67,6 @@ while gra < 1:
     elif c_score == 3:
         print("Przegrałeś {}! Wynikiem {} do {}.".format(imie, c_score, p_score))
         gra = 1
+
+print("Wanna play again?")
 # the end
