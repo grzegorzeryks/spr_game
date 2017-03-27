@@ -12,6 +12,7 @@ runda = 1
 imie = input("Podaj swoje imie rzezimieszku :")
 print("Przygotuj sie do walki {}! \n ".format(imie))
 
+# to do zawrzyj loopa w funkcji
 while gra < 1:
     print("!!!!!! RUNDA ", runda, "!!!!!")
     runda += 1
